@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+		<file>ui/ComAssist.png</file>
+		<file>ui/start.png</file>
+		<file>ui/stop.png</file>
+		<file>ui/pause.png</file>
+		<file>ui/clear.png</file>
+		<file>ui/scan.png</file>
+		<file>ui/options.png</file>
+    </qresource>
+</RCC>
